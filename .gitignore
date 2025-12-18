@@ -42,6 +42,5 @@ next-env.d.ts
 
 # Other
 ./AI_DASHBOARD_SPEC.md
-openspec/
 .factory/
 AGENTS.md
